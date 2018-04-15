@@ -1,0 +1,442 @@
+{
+    "deviceRes": [
+        {
+            "ref_value": "Device_1"
+        },
+        {
+            "ref_value": "Device_2"
+        },
+        {
+            "ref_value": "Device_3"
+        },
+        {
+            "ref_value": "Device_4"
+        }
+    ],
+    "yesRes": [
+        {
+            "cat": "BANNED PLASTIC USAGE",
+            "device": "Device_1",
+            "sum_amount": 0
+        },
+        {
+            "cat": "BANNED PLASTIC USAGE",
+            "device": "Device_2",
+            "sum_amount": 0
+        },
+        {
+            "cat": "BANNED PLASTIC USAGE",
+            "device": "Device_3",
+            "sum_amount": 0
+        },
+        {
+            "cat": "BANNED PLASTIC USAGE",
+            "device": "Device_4",
+            "sum_amount": 0
+        },
+        {
+            "cat": "DRAINAGE BLOCK",
+            "device": "Device_1",
+            "sum_amount": 0
+        },
+        {
+            "cat": "DRAINAGE BLOCK",
+            "device": "Device_2",
+            "sum_amount": 0
+        },
+        {
+            "cat": "DRAINAGE BLOCK",
+            "device": "Device_3",
+            "sum_amount": 0
+        },
+        {
+            "cat": "DRAINAGE BLOCK",
+            "device": "Device_4",
+            "sum_amount": 0
+        },
+        {
+            "cat": "MOSQUITOES SOURCES",
+            "device": "Device_1",
+            "sum_amount": 0
+        },
+        {
+            "cat": "MOSQUITOES SOURCES",
+            "device": "Device_2",
+            "sum_amount": 0
+        },
+        {
+            "cat": "MOSQUITOES SOURCES",
+            "device": "Device_3",
+            "sum_amount": 0
+        },
+        {
+            "cat": "MOSQUITOES SOURCES",
+            "device": "Device_4",
+            "sum_amount": 0
+        },
+        {
+            "cat": "OD/URINATION",
+            "device": "Device_1",
+            "sum_amount": 0
+        },
+        {
+            "cat": "OD/URINATION",
+            "device": "Device_2",
+            "sum_amount": 0
+        },
+        {
+            "cat": "OD/URINATION",
+            "device": "Device_3",
+            "sum_amount": 0
+        },
+        {
+            "cat": "OD/URINATION",
+            "device": "Device_4",
+            "sum_amount": 0
+        },
+        {
+            "cat": "OTHER PENALTY",
+            "device": "Device_1",
+            "sum_amount": 0
+        },
+        {
+            "cat": "OTHER PENALTY",
+            "device": "Device_2",
+            "sum_amount": 0
+        },
+        {
+            "cat": "OTHER PENALTY",
+            "device": "Device_3",
+            "sum_amount": 0
+        },
+        {
+            "cat": "OTHER PENALTY",
+            "device": "Device_4",
+            "sum_amount": 0
+        },
+        {
+            "cat": "SWM-LITTERING",
+            "device": "Device_1",
+            "sum_amount": 0
+        },
+        {
+            "cat": "SWM-LITTERING",
+            "device": "Device_2",
+            "sum_amount": 0
+        },
+        {
+            "cat": "SWM-LITTERING",
+            "device": "Device_3",
+            "sum_amount": 0
+        },
+        {
+            "cat": "SWM-LITTERING",
+            "device": "Device_4",
+            "sum_amount": 0
+        },
+        {
+            "cat": "WASTE WATER ISSUE",
+            "device": "Device_1",
+            "sum_amount": 0
+        },
+        {
+            "cat": "WASTE WATER ISSUE",
+            "device": "Device_2",
+            "sum_amount": 0
+        },
+        {
+            "cat": "WASTE WATER ISSUE",
+            "device": "Device_3",
+            "sum_amount": 0
+        },
+        {
+            "cat": "WASTE WATER ISSUE",
+            "device": "Device_4",
+            "sum_amount": 0
+        }
+    ],
+    "last7Res": [
+        {
+            "cat": "BANNED PLASTIC USAGE",
+            "device": "Device_1",
+            "sum_amount": 0
+        },
+        {
+            "cat": "BANNED PLASTIC USAGE",
+            "device": "Device_2",
+            "sum_amount": 0
+        },
+        {
+            "cat": "BANNED PLASTIC USAGE",
+            "device": "Device_3",
+            "sum_amount": 200
+        },
+        {
+            "cat": "BANNED PLASTIC USAGE",
+            "device": "Device_4",
+            "sum_amount": 0
+        },
+        {
+            "cat": "DRAINAGE BLOCK",
+            "device": "Device_1",
+            "sum_amount": 0
+        },
+        {
+            "cat": "DRAINAGE BLOCK",
+            "device": "Device_2",
+            "sum_amount": 0
+        },
+        {
+            "cat": "DRAINAGE BLOCK",
+            "device": "Device_3",
+            "sum_amount": 0
+        },
+        {
+            "cat": "DRAINAGE BLOCK",
+            "device": "Device_4",
+            "sum_amount": 0
+        },
+        {
+            "cat": "MOSQUITOES SOURCES",
+            "device": "Device_1",
+            "sum_amount": 0
+        },
+        {
+            "cat": "MOSQUITOES SOURCES",
+            "device": "Device_2",
+            "sum_amount": 0
+        },
+        {
+            "cat": "MOSQUITOES SOURCES",
+            "device": "Device_3",
+            "sum_amount": 0
+        },
+        {
+            "cat": "MOSQUITOES SOURCES",
+            "device": "Device_4",
+            "sum_amount": 0
+        },
+        {
+            "cat": "OD/URINATION",
+            "device": "Device_1",
+            "sum_amount": 0
+        },
+        {
+            "cat": "OD/URINATION",
+            "device": "Device_2",
+            "sum_amount": 0
+        },
+        {
+            "cat": "OD/URINATION",
+            "device": "Device_3",
+            "sum_amount": 0
+        },
+        {
+            "cat": "OD/URINATION",
+            "device": "Device_4",
+            "sum_amount": 0
+        },
+        {
+            "cat": "OTHER PENALTY",
+            "device": "Device_1",
+            "sum_amount": 0
+        },
+        {
+            "cat": "OTHER PENALTY",
+            "device": "Device_2",
+            "sum_amount": 0
+        },
+        {
+            "cat": "OTHER PENALTY",
+            "device": "Device_3",
+            "sum_amount": 0
+        },
+        {
+            "cat": "OTHER PENALTY",
+            "device": "Device_4",
+            "sum_amount": 0
+        },
+        {
+            "cat": "SWM-LITTERING",
+            "device": "Device_1",
+            "sum_amount": 0
+        },
+        {
+            "cat": "SWM-LITTERING",
+            "device": "Device_2",
+            "sum_amount": 0
+        },
+        {
+            "cat": "SWM-LITTERING",
+            "device": "Device_3",
+            "sum_amount": 0
+        },
+        {
+            "cat": "SWM-LITTERING",
+            "device": "Device_4",
+            "sum_amount": 0
+        },
+        {
+            "cat": "WASTE WATER ISSUE",
+            "device": "Device_1",
+            "sum_amount": 0
+        },
+        {
+            "cat": "WASTE WATER ISSUE",
+            "device": "Device_2",
+            "sum_amount": 0
+        },
+        {
+            "cat": "WASTE WATER ISSUE",
+            "device": "Device_3",
+            "sum_amount": 0
+        },
+        {
+            "cat": "WASTE WATER ISSUE",
+            "device": "Device_4",
+            "sum_amount": 0
+        }
+    ],
+    "last30Res": [
+        {
+            "cat": "BANNED PLASTIC USAGE",
+            "device": "Device_1",
+            "sum_amount": 0
+        },
+        {
+            "cat": "BANNED PLASTIC USAGE",
+            "device": "Device_2",
+            "sum_amount": 0
+        },
+        {
+            "cat": "BANNED PLASTIC USAGE",
+            "device": "Device_3",
+            "sum_amount": 200
+        },
+        {
+            "cat": "BANNED PLASTIC USAGE",
+            "device": "Device_4",
+            "sum_amount": 38100
+        },
+        {
+            "cat": "DRAINAGE BLOCK",
+            "device": "Device_1",
+            "sum_amount": 0
+        },
+        {
+            "cat": "DRAINAGE BLOCK",
+            "device": "Device_2",
+            "sum_amount": 0
+        },
+        {
+            "cat": "DRAINAGE BLOCK",
+            "device": "Device_3",
+            "sum_amount": 0
+        },
+        {
+            "cat": "DRAINAGE BLOCK",
+            "device": "Device_4",
+            "sum_amount": 0
+        },
+        {
+            "cat": "MOSQUITOES SOURCES",
+            "device": "Device_1",
+            "sum_amount": 0
+        },
+        {
+            "cat": "MOSQUITOES SOURCES",
+            "device": "Device_2",
+            "sum_amount": 0
+        },
+        {
+            "cat": "MOSQUITOES SOURCES",
+            "device": "Device_3",
+            "sum_amount": 0
+        },
+        {
+            "cat": "MOSQUITOES SOURCES",
+            "device": "Device_4",
+            "sum_amount": 0
+        },
+        {
+            "cat": "OD/URINATION",
+            "device": "Device_1",
+            "sum_amount": 0
+        },
+        {
+            "cat": "OD/URINATION",
+            "device": "Device_2",
+            "sum_amount": 0
+        },
+        {
+            "cat": "OD/URINATION",
+            "device": "Device_3",
+            "sum_amount": 0
+        },
+        {
+            "cat": "OD/URINATION",
+            "device": "Device_4",
+            "sum_amount": 0
+        },
+        {
+            "cat": "OTHER PENALTY",
+            "device": "Device_1",
+            "sum_amount": 0
+        },
+        {
+            "cat": "OTHER PENALTY",
+            "device": "Device_2",
+            "sum_amount": 0
+        },
+        {
+            "cat": "OTHER PENALTY",
+            "device": "Device_3",
+            "sum_amount": 0
+        },
+        {
+            "cat": "OTHER PENALTY",
+            "device": "Device_4",
+            "sum_amount": 4000
+        },
+        {
+            "cat": "SWM-LITTERING",
+            "device": "Device_1",
+            "sum_amount": 0
+        },
+        {
+            "cat": "SWM-LITTERING",
+            "device": "Device_2",
+            "sum_amount": 0
+        },
+        {
+            "cat": "SWM-LITTERING",
+            "device": "Device_3",
+            "sum_amount": 0
+        },
+        {
+            "cat": "SWM-LITTERING",
+            "device": "Device_4",
+            "sum_amount": 1000
+        },
+        {
+            "cat": "WASTE WATER ISSUE",
+            "device": "Device_1",
+            "sum_amount": 0
+        },
+        {
+            "cat": "WASTE WATER ISSUE",
+            "device": "Device_2",
+            "sum_amount": 0
+        },
+        {
+            "cat": "WASTE WATER ISSUE",
+            "device": "Device_3",
+            "sum_amount": 0
+        },
+        {
+            "cat": "WASTE WATER ISSUE",
+            "device": "Device_4",
+            "sum_amount": 0
+        }
+    ]
+}
